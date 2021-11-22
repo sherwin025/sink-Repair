@@ -1,0 +1,55 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Merle"
+    },
+    {
+      "id": 2,
+      "name": "Maude"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "2021-11-04T19:59:37.372Z",
+      "id": 1
+    },
+    {
+      "requestId": 2,
+      "plumberId": 2,
+      "date_created": "2021-11-04T19:59:43.774Z",
+      "id": 2
+    },
+    {
+      "requestId": 3,
+      "plumberId": 1,
+      "date_created": "2021-11-04T20:03:44.961Z",
+      "id": 3
+    }
+  ],
+  "requests": [
+    {
+      "description": "toilet",
+      "address": "123 main",
+      "budget": "12",
+      "neededBy": "2021-11-01",
+      "id": 1
+    },
+    {
+      "description": "123 main",
+      "address": "sink ",
+      "budget": "123",
+      "neededBy": "2021-11-09",
+      "id": 2
+    },
+    {
+      "description": "kitchen",
+      "address": "123 main",
+      "budget": "25",
+      "neededBy": "2021-11-23",
+      "id": 3
+    }
+  ]
+}

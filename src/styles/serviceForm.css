@@ -1,0 +1,15 @@
+.field {
+    flex-direction: column;
+    display: flex;
+    margin: 10px 0;
+}
+
+.label {
+    font-size: 16px;
+}
+
+.button {
+    background-color: gray;
+    color: white;
+    padding: 6px;
+}
